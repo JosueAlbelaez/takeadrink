@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { Button, Form, Row, Col, Alert } from 'react-bootstrap'
 import useCategorias from '../hooks/useCategorias'
 import useBebidas from '../hooks/useBebidas'
-import '../App.css'
+import '../app.css'
 
 const Formulario = () => {
 
