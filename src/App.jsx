@@ -4,7 +4,7 @@ import ListadoBebidas from './components/ListadoBebidas'
 import ModalBebida from './components/ModalBebida'
 import { CategoriasProvider } from './context/CategoriasProvider'
 import { BebidasProvider } from './context/BebidasProvider'
-import './App.css'
+import './app.css'
 
 function App() {
 
