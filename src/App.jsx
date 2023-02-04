@@ -15,10 +15,10 @@ function App() {
           <div >
                 <img className='logo' src="https://cdn.icon-icons.com/icons2/219/PNG/256/Sex_on_the_Beach_25441.png" alt="Logo Take a drink" />
                 <p className='parrafo'>
-                 Los mejores tragos del mundo en un solo lugar
+                 <h3>TAKE A DRINK:</h3> Las mejores bebidas en un solo lugar
                 </p>
             </div>
-            <h1>Busca tu trago</h1>
+            <h2>Selecciona el trago que quieres</h2>
           </header>
 
 
