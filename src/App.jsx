@@ -13,7 +13,7 @@ function App() {
       <BebidasProvider>
           <header className="py-2">
           <div >
-                <img className='logo' src="../src/logo.jpg" alt="Logo Take a drink" />
+                <img className='logo' src="https://cdn.icon-icons.com/icons2/219/PNG/256/Sex_on_the_Beach_25441.png" alt="Logo Take a drink" />
                 <p className='parrafo'>
                  Los mejores tragos del mundo en un solo lugar
                 </p>
